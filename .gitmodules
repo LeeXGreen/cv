@@ -1,0 +1,3 @@
+[submodule "biteydown"]
+	path = biteydown
+	url = git@github.com:LeeXGreen/biteydown.git
