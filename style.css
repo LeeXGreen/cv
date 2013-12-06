@@ -3,6 +3,7 @@ body {
   font-family: Verdana, Geneva, sans-serif;
   margin-left: 15px;
   margin-right: 15px;
+  //width: 750px;
 }
 
 a {
@@ -11,11 +12,11 @@ a {
 }
 
 h1, h2 {
-  font-family: ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 h2 {
-  color: #CB0063;
+  color: #156958;
   border-style: solid;
   border-width: 0px 0px 1px 0px;
 }
@@ -24,7 +25,8 @@ code {
   font-size: 15px;
   margin-left: 12px;
   margin-top: 1px;
-  position: absolute;
+  //position: absolute;
+  float: right;
 }
 
 blockquote {
