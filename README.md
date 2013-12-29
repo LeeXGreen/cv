@@ -7,7 +7,7 @@ Uses Arturo Herrero's [biteydown](https://github.com/arturoherrero/biteydown), t
 
 All the complexity is in biteydown -- I just keep my CSS and bash scripts here.
 
-Current(master branch) CV:
+Current(master branch) CV:  
 [MD](https://github.com/LeeXGreen/cv/blob/master/cv.md)  
 [PDF](https://github.com/LeeXGreen/cv/raw/master/cv.pdf)  
 [HTML](https://github.com/LeeXGreen/cv/raw/master/cv.html)  
