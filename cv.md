@@ -36,11 +36,7 @@ Provide software architecture / development / optimization services
 **Senior Software Developer** `2014`  
 *DecisionGrid* `Austin, Texas`
 
-DecisionGrid delivered a web-based SaaS solution which helped investigators
-organize, analyze, and share their data and conclusions.
-
-I designed and implemented features and bugfixes at all levels of the web stack, for example:
-
+* Designed and implemented features and bugfixes at all levels of the web stack, for example:
   * designing table schemas, optimizing indexes
   * customizing existing or building new Rack middleware
   * building new features in a single-page app (SPA) architecture (Rails API, EmberJS frontend)
