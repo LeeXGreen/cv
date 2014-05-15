@@ -28,23 +28,23 @@ with **Vagrant**, and config management with **Chef** or **Puppet**.
 
 ## Experience
 
-**Senior Software Developer** `2014 - Present`  
-*DecisionGrid* `Austin, Texas`
-
-DecisionGrid provides a web-based SaaS solution for investigative analysis
-and collaboration.
-
-I designed and implemented features and bugfixes at all levels of the web stack, including:
-
-  * optimizing MySQL indexes to improve query speed
-  * building Rack middleware, if existing middleware could not be customized
-  * typical Rails MVC work, including (of course) unit and integration testing
-  * converting Rails MVC code into a single-page architecture -- Rails API, EmberJS frontend
-
 **Principal** `2014 - Present`  
 *Lee Green Consulting* `Austin, Texas`
 
 Provide software architecture / development / optimization services
+
+**Senior Software Developer** `2014`  
+*DecisionGrid* `Austin, Texas`
+
+DecisionGrid delivered a web-based SaaS solution which helped investigators
+organize, analyze, and share their data and conclusions.
+
+I designed and implemented features and bugfixes at all levels of the web stack, for example:
+
+  * designing table schemas, optimizing indexes
+  * customizing existing or building new Rack middleware
+  * building new features in a single-page app (SPA) architecture (Rails API, EmberJS frontend)
+  * converting existing Rails-driven features into SPA while improving functionality
 
 **Senior Software Developer** `2010 - 2014`  
 *TouchTunes* `Montreal, Quebec`
