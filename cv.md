@@ -17,7 +17,7 @@ Passionate about **solving business problems** with **elegant software** solutio
 Adept at distilling **clear technical specs** from user requirements.
 
 Over 5 years of **Ruby** experience, including **Rails**, **Rack**, and **Sinatra**.
-About 2 years of **Python** experience, across several projects.
+Over 2 years of **Python** experience.
 Skilled with **SQL** (**MySQL** and **Oracle**) as well as **Memcache** / **Redis**.
 Experienced user of **Amazon** services (**EC2**, **S3**, **SES**).
 Capable with **HTML**, **CSS** (**SCSS** / **SASS**), and **JavaScript**
@@ -32,6 +32,11 @@ with **Vagrant**, and config management with **Chef** or **Puppet**.
 *Lee Green Consulting* `Austin, Texas`
 
 Provide software architecture / development / optimization services
+
+* In Python, designed and built a stateful log parser to turn raw device logs into rich events.
+* Designed event data model to allow for flexible yet efficient queries
+* Built a pipeline to handle these events, including enrichment (merging data
+  from APIs, databases) and delivery to internal and third-party analytics systems
 
 **Senior Software Developer** `2014`  
 *DecisionGrid* `Austin, Texas`
