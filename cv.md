@@ -103,5 +103,7 @@ dynamic data-driven media, real-time log delivery and processing
 
 **BS, Computer Engineering** at *The University of Texas at Austin.* `2006`
 
+<!--
 - Concentrations: Microprocessor Design, Software Development  
 - Completed three hours of graduate coursework as part of undergraduate degree
+-->
