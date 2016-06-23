@@ -16,7 +16,7 @@ Proven **project leader** with a history of leading both employees and consultan
 Passionate about **solving business problems** with **elegant software** solutions.
 Adept at distilling **clear technical specs** from user requirements.
 
-Over 6 years of **Ruby** experience, including **Rails 2/3/4**, **Rack**,
+Over 7 years of **Ruby** experience, including **Rails 2/3/4**, **Rack**,
 and **Sinatra**. Over 2 years of **Python** experience.
 Skilled with **SQL** (**MySQL**, **PostgreSQL**, and **Oracle**)
 as well as **Memcache** / **Redis**.
@@ -29,17 +29,13 @@ with **Vagrant**, and config management with **Chef** or **Puppet**.
 
 ## Experience
 
-**Senior Software Developer** `2014 - Present`  
+**Staff Software Developer** `2015 - Present`  
+**Senior Software Developer** `2014 - 2015`  
 *Spiceworks* `Austin, Texas`  
 
 Lead developer on the Infrastructure team, reporting to the CTO.  
-Team responsibilites include architecture, performance/scaling, and security.
-
-Personal responsibilities include:
-
-* Review code / database schema changes
-* Improve application performance and automated test execution speed
-* Oversee extraction of services from monolithic Rails codebase
+Team responsibilites include architecture, performance/scaling, code quality.  
+Respond to production issues, regardless of the originating team.
 
 **Principal** `2014 - Present`  
 *Lee Green Consulting* `Austin, Texas`
