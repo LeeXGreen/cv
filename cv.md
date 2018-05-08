@@ -3,7 +3,6 @@ Lee Green
 
 
 >   lee.x.green@gmail.com  
->   http://lee.greens.io  
 >   GitHub: LeeXGreen
 
 
@@ -12,20 +11,21 @@ Lee Green
 
 **Software architect** and **full-stack developer**, experienced in creating
 **APIs** and **backend** systems for **web** and **mobile**.
-Proven **project leader** with a history of leading both employees and consultants.
+Proven **team and project leader** with a history of leading both employees
+and consultants.
 Passionate about **solving business problems** with **elegant software** solutions.
 Adept at distilling **clear technical specs** from user requirements.
 
-Over 7 years of **Ruby** experience, including **Rails 2/3/4**, **Rack**,
+Over 10 years of **Ruby** experience, including **Rails 2-5**, **Rack**,
 and **Sinatra**. Over 2 years of **Python** experience.
 Skilled with **SQL** (**MySQL**, **PostgreSQL**, and **Oracle**)
 as well as **Memcache** / **Redis**.
-Experienced user of **Amazon** services (**EC2**, **S3**, **SES**).
+Experienced user of **Amazon** services (**EC2**, **S3**, **SES**, **ElastiCache**).
 Capable with **HTML**, **CSS** (**SCSS** / **SASS**), and **JavaScript**
 (**CoffeeScript**, **EmberJS**).
 Comfortable in **Linux / UNIX**, as well as **OS X**.
 Addicted to version control with **Git**, reproducible development environments
-with **Vagrant**, and config management with **Chef** or **Puppet**.
+with **Vagrant** or **Docker**, and config management with **Chef** or **Puppet**.
 
 ## Experience
 
@@ -36,6 +36,17 @@ with **Vagrant**, and config management with **Chef** or **Puppet**.
 Lead developer on the Infrastructure team, reporting to the CTO.  
 Team responsibilites include architecture, performance/scaling, code quality.  
 Respond to production issues, regardless of the originating team.
+
+Lead developer on many high-priority projects:
+  - Migrating to HTTPS
+  - Several Ruby / Rails upgrades
+  - Porting from JRuby to MRI
+  - Migrating from hosting provider to AWS
+
+Created a biweekly backend developer meeting focusing on information sharing
+and professional development.
+Operated a weekly "lunch and learn" lecture series -- conference recaps,
+team updates, technical talks -- including scheduling speakers, helping with talk creation
 
 **Principal** `2014 - Present`  
 *Lee Green Consulting* `Austin, Texas`
