@@ -8,7 +8,8 @@ Lee Green
 
 ## Summary
 
-
+**Site reliability engineer** and **full-stack engineer**, experienced in supporting / designing / creating **APIs** and **backend** systems for **web** and **mobile**.
+<!--
 **Software architect** and **full-stack developer**, experienced in creating
 **APIs** and **backend** systems for **web** and **mobile**.
 Proven **team and project leader** with a history of leading both employees
@@ -26,10 +27,35 @@ Capable with **HTML**, **CSS** (**SCSS** / **SASS**), and **JavaScript**
 Comfortable in **Linux / UNIX**, as well as **OS X**.
 Addicted to version control with **Git**, reproducible development environments
 with **Vagrant** or **Docker**, and config management with **Chef** or **Puppet**.
+-->
 
 ## Experience
 
-**Staff Software Developer** `2015 - Present`  
+**Staff Site Reliability Engineer** `2020 - Present`
+*Indeed* `Austin, Texas`
+
+* Taught developers: reliability concepts like SLOs/error budget/burn rate, Terraform and internal module usage
+* Led portions of lift-and-shift migration from self-hosted/colo to AWS
+
+**Senior Software Engineer** `2019`
+*GLG* `Austin, Texas`
+
+Frontend-focused full-stack developer, working chiefly in React / Node.
+Product was a business-critical workflow web application used by 1000+ employees.
+
+* Designed and implemented new features [...]
+
+**Principal** `2014 - 2018`  
+*Lee Green Consulting* `Austin, Texas`
+
+Provide software architecture / development / optimization services
+
+* In Python, designed and built a stateful log parser to turn raw device logs into rich events.
+* Designed event data model to allow for flexible yet efficient queries
+* Built a pipeline to handle these events, including enrichment (merging data
+  from APIs, databases) and delivery to internal and third-party analytics systems
+
+**Staff Software Developer** `2015 - 2018`  
 **Senior Software Developer** `2014 - 2015`  
 *Spiceworks* `Austin, Texas`  
 
@@ -47,16 +73,6 @@ Created a biweekly backend developer meeting focusing on information sharing
 and professional development.
 Operated a weekly "lunch and learn" lecture series -- conference recaps,
 team updates, technical talks -- including scheduling speakers, helping with talk creation
-
-**Principal** `2014 - Present`  
-*Lee Green Consulting* `Austin, Texas`
-
-Provide software architecture / development / optimization services
-
-* In Python, designed and built a stateful log parser to turn raw device logs into rich events.
-* Designed event data model to allow for flexible yet efficient queries
-* Built a pipeline to handle these events, including enrichment (merging data
-  from APIs, databases) and delivery to internal and third-party analytics systems
 
 **Senior Software Developer** `2014`  
 *DecisionGrid* `Austin, Texas`
