@@ -34,14 +34,14 @@ with **Vagrant** or **Docker**, and config management with **Chef** or **Puppet*
 **Staff Site Reliability Engineer** `2020 - Present`
 *Indeed* `Austin, Texas`
 
-* Taught developers: reliability concepts like SLOs/error budget/burn rate, Terraform and internal module usage
+* Taught developers and QA staff reliability concepts like SLOs/error budget/burn rate, Terraform and internal module usage
 * Led portions of lift-and-shift migration from self-hosted/colo to AWS
 
 **Senior Software Engineer** `2019`
 *GLG* `Austin, Texas`
 
-Frontend-focused full-stack developer, working chiefly in React / Node.
-Product was a business-critical workflow web application used by 1000+ employees.
+- Frontend-focused full-stack developer, working chiefly in React / Node.
+- Product was a business-critical workflow web application used by 1000+ employees.
 
 * Designed and implemented new features [...]
 
@@ -59,20 +59,18 @@ Provide software architecture / development / optimization services
 **Senior Software Developer** `2014 - 2015`  
 *Spiceworks* `Austin, Texas`  
 
-Lead developer on the Infrastructure team, reporting to the CTO.  
-Team responsibilites include architecture, performance/scaling, code quality.  
-Respond to production issues, regardless of the originating team.
+- Lead developer on the Infrastructure team, reporting to the CTO.  
+  - Team responsibilites include architecture, performance/scaling, code quality.  
+  - Respond to production issues, regardless of the originating team.
 
-Lead developer on many high-priority projects:
+- Lead developer on many high-priority projects:
   - Migrating to HTTPS
   - Several Ruby / Rails upgrades
   - Porting from JRuby to MRI
   - Migrating from hosting provider to AWS
 
-Created a biweekly backend developer meeting focusing on information sharing
-and professional development.
-Operated a weekly "lunch and learn" lecture series -- conference recaps,
-team updates, technical talks -- including scheduling speakers, helping with talk creation
+- Created a biweekly backend developer meeting focusing on information sharing and professional development.
+- Operated a weekly "lunch and learn" lecture series -- conference recaps, team updates, technical talks -- including scheduling speakers, helping with talk creation
 
 **Senior Software Developer** `2014`  
 *DecisionGrid* `Austin, Texas`
@@ -89,7 +87,6 @@ team updates, technical talks -- including scheduling speakers, helping with tal
 - The go-to guy for quick solutions, rapid prototyping, and exploration of new tech:
   - TouchTunes Presents — perform market tests before actual product development
   - Crowd-Sourced DJ, SXSW party — allow attendees to choose the music
-  - Real-Time Analytics — evaluate analytics providers before full instrumentation
 - Software architect and project lead for multiple 5-6 figure projects, including:
   - TouchTunesTV Canvas — completely customize in-venue messaging, include tweets
   - PhotoBooth — customize app graphics on a per-jukebox basis, add venue logo
@@ -110,9 +107,6 @@ dynamic data-driven media, real-time log delivery and processing
 
 **QA Engineer (contract)** `2007`  
 *Pervasive Software* `Austin, Texas`
-
-- Responsible for manual and automated testing of database client and server software
-- Improved testing framework and process, in addition to creating automated tests
 
 **Software Developer** `2006 - 2007`    
 *MixZing* `Austin, Texas`

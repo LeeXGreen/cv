@@ -79,6 +79,8 @@ Published new TSD problem
 
 ## March 2023 - September 2023
 
+March 2023: 2,200 people laid off
+
 Blazed a path for other SREs to try a hybrid rotation model, working on high priority work while maintaining attachment to the home team and mentoring previous mentees
 Designed and executed a transition plan both "in" and "out" of the rotation team
 Wrote a document after the rotation describing what went well, what didn't go well, and advice for others following the same path
@@ -87,13 +89,48 @@ Contributed to critical legacy Indeed-specific ecosystem -- data/etc artifacts p
     * Created "canary" application to serve as first blessed client, which revealed several issues or potential issues
     * Implemented multiple APIs in new replacement system to achieve feature parity with legacy system
     * Implemented M1 Mac / ARM64 compatibility in legacy as well as replacement systems
+    * Offered design guidance, improved documentation, onboarded new member to team, and provided support for client teams -- all of which improved the team's overall velocity
 
 ## September 2023 - March 2024
+
+Cost Savings
+    * analyze existing costs
+    * create or leverage existing strategies for reducing costs
+    * execute plans
+
+Performed 1 Troubleshooting Discussion interview
+    * new problem, built in early 2023, and never used with external candidates
+    * taught the problem to the shadow and made final tweaks to support material
+
+
 ## March 2024 - September 2024
 
+May 2024: 1,000 people laid off
+
 Establish baseline availability measurements for Signature and BizCrit features
-Atlas version upgrades, database maintenance
+    * Validate existing metrics, promote to "blessed" features, enhancing accountability across teams
+Atlas version upgrades, database maintenance -- lead migrations/upgrades, respond to incidents
+Enhance operational process for "hot spot" teams -- reliability reviews, training, process improvement
+Maintain continuity of operational process following reorganization and layoffs
+Facilitate seamless transfer of application ecosystem
+Held a recurring problem-solving / knowledge transfer session to help SWEs solve tricky problems they were experiencing, and improve their operational skills
+
 
 ## September 2024 - March 2025
+
+Strengthen operational excellence and collaboration through incident response and retrospectives
+  - Suggested that language on blameless retrospectives be added to the organization-wide template, after I used it in a retrospective I was running
+Drive improvements in operations, improve team preparedness for reliability reviews
+  - "deep dive" sessions with each team's DFR going over the occurrences of the week, reviewing dashboards, etc
+Established a Kubernetes certification study group -- designed a structured study plan, led weekly syncs -- at least five of my colleagues earned certifications as a direct result of my efforts
+Enhance system reliability through proactive database and infrastructure improvements
+  - Support after-hours database upgrades
+  - Help SWEs work through issues with Terraform, Vault, and other infrastructure
+  - Improve Terraform modules used across the company for KPI and SLO measurement/alerting
+Urged appropriate levels of caution during deprecations and migrations
+
 ## March 2025 - September 2025
+
+July 2025: 1,300 people laid off
+
 ## September 2025 - March 2026
