@@ -2,6 +2,17 @@
 
 ## Summary
 
+Incident Analysis
+
+
+Observability
+  * reduce alert noise, eliminate false positives, create and maintain SLOs
+
+Infrastructure
+
+Teaching / Mentoring
+  * Terraform
+
 ## Chronological
 
 ### Feb 2020 - September 2020
