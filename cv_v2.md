@@ -17,8 +17,11 @@
   : **Indeed**
   : **2020 - Present**
 
-
-
+- Improve observability: reduce alert noise, review/extend metrics, build monitors/SLOs
+- Migrate and modernize applications and infrastructure: on-prem to AWS, MongoDB Atlas
+- Support software teams with tricky issues and help improve operations: reliability reviews, response processes
+- Analyze incidents, improve the analysis process, focus on blamelessness in retrospectives
+- Mentor managers and ICs: 1-1s, on-call support, Kubernetes study group, train interviewers
 
 **Senior Software Engineer**
   : **GLG**

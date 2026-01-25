@@ -1,5 +1,13 @@
 # Indeed
 
+## Resume-level summary
+
+* Improve observability: reduce alert noise, review/extend metrics, build monitors/SLOs
+* Migrate and modernize applications and infrastructure: on-prem to AWS, MongoDB Atlas
+* Support software teams with tricky issues and help improve operations: reliability reviews, response processes
+* Analyze incidents, improve the analysis process, focus on blamelessness in retrospectives
+* Mentor managers and ICs: 1-1s, on-call support, Kubernetes study group, train interviewers
+
 ## Summary
 
 Observability
@@ -8,49 +16,44 @@ Observability
   * KPIs / Features: select functionality, review metrics, dig into details, build monitors/SLOs
   * evaluate "SLO bootcamp" vendor
 
-Incident Analysis
-  * Incident Analysis Workshop -- interviewing, document writing, retrospective facilitation
-  * Analyzed incidents and additionally delivered the following artifacts:
-    * intro/outro script used by future analysts; wiki page accumulating tips for analysts; language in the template on blamelessness
-
 Infrastructure
   * migrating from legacy datacenters to AWS -- planning, executing, delegating
   * migrating from on-premise self-hosted Mongo to MongoDB Atlas (hosted in AWS) -- planning, executing, delegating
   * AWS WAF integration / tools -- generating, capturing, parsing logs
     * later integrated this into Indeed-wide modules, and also helped other teams
   * contributed to CIS20 certification efforts, including getting Puppet running again on over 2500 hosts
+  * cost savings -- analysis, planning, execution
+    * one part of the effort saved $4,000 _per day_ by replacing S3 backups with MongoDB Atlas backups
 
 Operations
   * Led a SWE team in their efforts to productionize an experimental service -- "teaching to fish"
   * Supported SWEs when they ran into tricky issues -- infrastructure, Indeed-isms, technical details
-  * Encouraged teams to improve their operational processes: reliability reviews
+  * Encouraged teams to improve their operational processes: reliability reviews, developer responder processes
   * Maintain operational continuity following multiple re-organizations and layoffs
-    * Raised concerns about staffing levels / sustainability of DFR rotation
+    * Raised concerns about staffing levels / sustainability of team responder rotations
     * Consistently urged increased ownership of production operations; documented issues with team process for SRE leadership to address with SWE leadership
    
+Incident Analysis
+  * participated in 50+ hour Incident Analysis Workshop -- interviewing, document writing, retrospective facilitation
+  * Analyzed numerous incidents and additionally delivered the following artifacts:
+    * intro/outro script used by future analysts; wiki page accumulating tips for analysts; language in the template on blamelessness
 
-Contribution
+Teaching / Mentoring
+  * helped onboard new SRE managers, SWE managers
+  * mentored numerous individual contributors
+    * 1:1s, code reviews, on-call assistance, brainstorming, Indeed-specific tools/concepts,
+    * task prioritization, work output review, self-evaluation / rubric behavior mapping, incident analysis
+
+Other Contributions
   * 6-month rotation with platform team modernizing legacy Indeed-specific ecosystem
     * SWE work, chiefly in Go; design, documentation, implementation, support, onboarding new members, improving team velocity
     * designed and executed transition plan both "in" and "out"; wrote a document for others to leverage in the future
-  * Cost Savings
-    * analysis, planning, execution -- one part of the effort saved $4,000 _per day_ by replacing S3 backups with MongoDB Atlas backups
-
-Teaching / Mentoring
-  * Onboarding new managers -- my own SRE manager, SWE managers
-  * IC Mentoring:
-    * 1:1s, code reviews, on-call assistance, brainstorming, Indeed-specific tools/concepts,
-    * task prioritization, work output review
-    * self-evaluation / rubric behavior mapping, incident analysis
-  * Kubernetes Study Group:
+  * Kubernetes Study Group
     * designed a structured study plan for myself and others including weekly sync meetings
     * I passed the CKAD exam, and at least five of my colleagues earned certifications as a result of my efforts
-
-Interviewing
-  * leading interviews -- trained rapidly, performed numerous interviews
-  * led the effort to develop a signals document for this interview type
-  * worked as part of an effort to develop a new problem for this interview type
-  * training other interviewers -- reverse shadow, trainees showing progress
+  * Interviewing
+    * trained other interviewers -- reverse shadow, trainees showing progress
+    * led the effort to develop a signals document, worked as part of an effort to develop a new problem
 
 
 ## Chronological
