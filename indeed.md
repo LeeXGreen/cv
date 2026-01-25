@@ -108,18 +108,35 @@ Taught QA personnel production and reliability concepts [SLOs, error budgets/bur
 
 SLO training and evangelism
 
-Began mentoring new SRE, helping to teach best practices as well as Indeed-specific tools or concepts
-Fully published the signals for the TSD interview
-Worked on a new problem for the TSD interview
+Attended "SLO bootcamp" put on by vendor -- covering concepts I already knew, but I gave feedback that this particular vendor probably wasn't the right fit
+
+SRE Mentoring:
+    * SRE II -- new to Indeed -- SLOs, monitors, on-call shadowing, Indeed-specific tools/concepts
+    * SRE ?? -- on-call shadowing
+
+Interviewing:
+    * Fully published the signals for the TSD interview
+    * Worked on a new problem for the TSD interview
+    * Trained new interviewers, shadow / reverse shadow, trainees showing progress
+
+Help new SWE TDM onboard to team -- provide context, explain architecture, answer questions
 
 ### September 2022 - March 2023
 
 Shutting down applications in AUS, decommissioning AUS database replica members
 MongoDB Atlas migration of 10TB critical cluster, including upgrades, integration with Datadog and Pagerduty
 
-Continued to mentor SRE II, also began mentoring SRE I
+SRE Mentoring:
+    * SRE II
+    * SRE I
+        * New to the industry -- previously worked in a physical engineering field
+        * Had built software skills and completed a software internship
+        * Assisted them with their first self-evaluation and helped them map behavior to rubric elements
+        * On-call shadowing, tools/processes, prioritizing work, reviewing output
 
 Continued SLO training and evangelism
+    * Teaching of Terraform/SLO/monitoring concepts to QA engineers
+    * Pairing to build new SLOs in Terraform
 
 Drove resolution of 3 major EVNTs in my area -- 4375, 4422, 4559
 Responded to EVNTs as on-call responder
@@ -144,16 +161,36 @@ Contributed to critical legacy Indeed-specific ecosystem -- data/etc artifacts p
 Atlas Migration
     * 
 
+Fully exiting Austin
+
+SRE Mentoring
+    * SRE I
+        * helped them write their first incident retrospective
+        * connected them with experts in areas they were learning
+
 ### September 2023 - March 2024
 
 Cost Savings
     * analyze existing costs
     * create or leverage existing strategies for reducing costs
     * execute plans
+    * part of initiative which saved over $4,000 _per day_ by replacing S3 backups with MongoDB Atlas multi-region backups
+
+Support SWEs running into tricky infrastructure issues (building monitors in Terraform, differences between Datadog UI and Terraform code...)
 
 Performed 1 Troubleshooting Discussion interview
     * new problem, built in early 2023, and never used with external candidates
     * taught the problem to the shadow and made final tweaks to support material
+
+SRE Mentoring:
+    * SRE I
+         * introduced to SRE Lunch and Learn
+         * help prioritizing tasks
+         * reviewing work output
+
+    * SRE II
+         * help with Go (Terraform provider)
+         * started async standup to work on engineering notebook type skills
 
 
 ### March 2024 - September 2024
@@ -170,6 +207,7 @@ MongoDB Atlas version upgrades, database maintenance
 Enhance operational process for "hot spot" teams
     * Attend/lead reliability reviews, training sessions, process improvement meetings
     * Provided guidance on release processes, operational health, response to SLO violations/production incidents
+    * Second set of eyes to back up and validate another experienced SRE
 
 Maintain continuity of operational process following reorganization and layoffs
     * Facilitate seamless transfer of application ecosystem
@@ -177,6 +215,12 @@ Maintain continuity of operational process following reorganization and layoffs
     * Consistently urged increased ownership of production operations and documented issues for SRE leadership to address with SWE leadership
 
 Held a recurring problem-solving / knowledge transfer session to help SWEs solve tricky problems they were experiencing, and improve their operational skills
+
+SRE Mentoring: SRE II, SRE I (promoted to II)
+
+Cost Savings: EMR clusters, replace sharded db with unsharded db
+
+Proactive incident prevention
 
 
 ### September 2024 - March 2025
@@ -186,6 +230,7 @@ Strengthen operational excellence and collaboration through incident response an
 
 Drive improvements in operations, improve team preparedness for reliability reviews
   - "deep dive" sessions with each team's DFR going over the occurrences of the week, reviewing dashboards, etc
+  - raise the operational bar, share best practices, improve alerting, runbooks, incident response workflows
 
 Established a Kubernetes certification study group
   - designed a structured study plan, led weekly syncs
@@ -199,7 +244,8 @@ Enhance system reliability through proactive database and infrastructure improve
 
 Support large-scale operational process improvement project
   - Provide input on relative prioritization of workstreams
-
+  - Identify work that actually moves the needle and move it to the beginning of execution plans
+  - Subject matter expert in multiple areas
 
 Urged appropriate levels of caution during deprecations and migrations
 

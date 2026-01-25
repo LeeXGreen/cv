@@ -7,7 +7,7 @@
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/example](https://github.com/example)
   : <span class="iconify" data-icon="tabler:phone"></span> (+1) 512-412-8159
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> 1234 Abc Street, Example, EX 01234
+<span class="iconify" data-icon="ic:outline-location-on"></span> 13221 Lismore Lane, 78660
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/leexgreen](https://www.linkedin.com/in/leexgreen/)
   : <span class="iconify" data-icon="tabler:mail"></span> [lee.x.green@gmail.com](mailto:lee.x.green@gmail.com)
 
@@ -56,11 +56,10 @@
   : **TouchTunes**
   : **2010 - 2014**
 
-- Software architect and project lead for multiple 5-6 figure projects
-- Lead developer for Barfly digital signage system
+- Software architect and project lead, lead developer for Barfly digital signage system
 - Stepped in to lead the mobile / API team for 4 months, delivering on-time app launch
 - Consistently provided quick solutions, rapid prototyping, and exploration of new tech
-- Improved the development process, with Git and Vagrant; promoted best practices and trained coworkers 
+- Improved the development process, adopting Git and Vagrant; promoted best practices and trained coworkers
 
 **Software Developer**
   : **Barfly Interactive Networks / TouchTunes**
