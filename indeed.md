@@ -2,16 +2,56 @@
 
 ## Summary
 
-Incident Analysis
-
-
 Observability
   * reduce alert noise, eliminate false positives, create and maintain SLOs
+    * teach others reliability concepts like SLOs, burn rate/error budget, Terraform/modules
+  * KPIs / Features: select functionality, review metrics, dig into details, build monitors/SLOs
+  * evaluate "SLO bootcamp" vendor
+
+Incident Analysis
+  * Incident Analysis Workshop -- interviewing, document writing, retrospective facilitation
+  * Analyzed incidents and additionally delivered the following artifacts:
+    * intro/outro script used by future analysts; wiki page accumulating tips for analysts; language in the template on blamelessness
 
 Infrastructure
+  * migrating from legacy datacenters to AWS -- planning, executing, delegating
+  * migrating from on-premise self-hosted Mongo to MongoDB Atlas (hosted in AWS) -- planning, executing, delegating
+  * AWS WAF integration / tools -- generating, capturing, parsing logs
+    * later integrated this into Indeed-wide modules, and also helped other teams
+  * contributed to CIS20 certification efforts, including getting Puppet running again on over 2500 hosts
+
+Operations
+  * Led a SWE team in their efforts to productionize an experimental service -- "teaching to fish"
+  * Supported SWEs when they ran into tricky issues -- infrastructure, Indeed-isms, technical details
+  * Encouraged teams to improve their operational processes: reliability reviews
+  * Maintain operational continuity following multiple re-organizations and layoffs
+    * Raised concerns about staffing levels / sustainability of DFR rotation
+    * Consistently urged increased ownership of production operations; documented issues with team process for SRE leadership to address with SWE leadership
+   
+
+Contribution
+  * 6-month rotation with platform team modernizing legacy Indeed-specific ecosystem
+    * SWE work, chiefly in Go; design, documentation, implementation, support, onboarding new members, improving team velocity
+    * designed and executed transition plan both "in" and "out"; wrote a document for others to leverage in the future
+  * Cost Savings
+    * analysis, planning, execution -- one part of the effort saved $4,000 _per day_ by replacing S3 backups with MongoDB Atlas backups
 
 Teaching / Mentoring
-  * Terraform
+  * Onboarding new managers -- my own SRE manager, SWE managers
+  * IC Mentoring:
+    * 1:1s, code reviews, on-call assistance, brainstorming, Indeed-specific tools/concepts,
+    * task prioritization, work output review
+    * self-evaluation / rubric behavior mapping, incident analysis
+  * Kubernetes Study Group:
+    * designed a structured study plan for myself and others including weekly sync meetings
+    * I passed the CKAD exam, and at least five of my colleagues earned certifications as a result of my efforts
+
+Interviewing
+  * leading interviews -- trained rapidly, performed numerous interviews
+  * led the effort to develop a signals document for this interview type
+  * worked as part of an effort to develop a new problem for this interview type
+  * training other interviewers -- reverse shadow, trainees showing progress
+
 
 ## Chronological
 
@@ -36,6 +76,7 @@ Infrastructure:
 
 Incident Analysis:
   * Analyzed EVNT-2639 and EVNT-2710 for DREMR team
+  * intense Incident Analysis workshop (40 hour week, 13 additional hours)
   * Analyzed EVNT-2770 with Learning for Incidents
     * interviews, timelines, document/slide writing/editing, co-led the Learning Review meeting
 
@@ -46,10 +87,10 @@ Alerting:
 
 Terraform:
   * Gave demo / live code review to team covering Terraform
-  * Made improvements to Terradog (Datadog -> Terraform tool), gave a demo to SRE
+  * Made improvements to Terradog (Datadog -> Terraform tool), gave a demo to SRE 
+
 on-call for Austin as well as Consul and Vault guild
 updated / provided input on runbooks
-intense Incident Analysis workshop (40 hour week + 13 additional hours)
 
 ### March 2021 - September 2021
 
@@ -106,6 +147,8 @@ Taught QA personnel production and reliability concepts [SLOs, error budgets/bur
   * Created and presented three live workshops and one mob programming session
   * Assisted attendees afterwards in leveraging the knowledge they built to improve our monitoring of our non-production environments
 
+Aided SWE team as they productionized an experimental service, "teaching them to fish" about operational processes and best practices
+
 SLO training and evangelism
 
 Attended "SLO bootcamp" put on by vendor -- covering concepts I already knew, but I gave feedback that this particular vendor probably wasn't the right fit
@@ -118,6 +161,7 @@ Interviewing:
     * Fully published the signals for the TSD interview
     * Worked on a new problem for the TSD interview
     * Trained new interviewers, shadow / reverse shadow, trainees showing progress
+    * Led or reverse shadowed 17 TSD interviews
 
 Help new SWE TDM onboard to team -- provide context, explain architecture, answer questions
 
@@ -159,9 +203,9 @@ Contributed to critical legacy Indeed-specific ecosystem -- data/etc artifacts p
     * Offered design guidance, improved documentation, onboarded new member to team, and provided support for client teams -- all of which improved the team's overall velocity
 
 Atlas Migration
-    * 
+    * Focused almost entirely on this during October -- planning, executing, leading, delegating
 
-Fully exiting Austin
+Fully exiting Austin / migrating to AWS
 
 SRE Mentoring
     * SRE I
