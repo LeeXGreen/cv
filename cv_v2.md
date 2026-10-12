@@ -3,8 +3,7 @@
 
 # Lee Green
 
-<span class="iconify" data-icon="charm:person"></span> [example.com](https://example.com/)
-  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/example](https://github.com/example)
+<span class="iconify" data-icon="tabler:brand-github"></span> [github.com/leexgreen](https://github.com/leexgreen)
   : <span class="iconify" data-icon="tabler:phone"></span> (+1) 512-412-8159
 
 <span class="iconify" data-icon="ic:outline-location-on"></span> 13221 Lismore Lane, 78660
