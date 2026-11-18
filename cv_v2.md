@@ -3,20 +3,21 @@
 
 # Lee Green
 
-<span class="iconify" data-icon="tabler:brand-github"></span> [github.com/leexgreen](https://github.com/leexgreen)
-  : <span class="iconify" data-icon="tabler:phone"></span> (+1) 512-412-8159
+::ic:outline-location-on:: 13221 Lismore Lane, Pflugerville, TX 78660
+  : ::tabler:phone:: (+1) 512-412-8159
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> 13221 Lismore Lane, 78660
-  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/leexgreen](https://www.linkedin.com/in/leexgreen/)
-  : <span class="iconify" data-icon="tabler:mail"></span> [lee.x.green@gmail.com](mailto:lee.x.green@gmail.com)
+
+::tabler:brand-github:: [github.com/leexgreen](https://github.com/leexgreen)
+  : ::tabler:brand-linkedin:: [linkedin.com/in/leexgreen](https://www.linkedin.com/in/leexgreen/)
+  : ::tabler:mail:: [lee.x.green@gmail.com](mailto:lee.x.green@gmail.com)
 
 ## Experience
 
 **Staff Site Reliability Engineer**
   : **Indeed**
-  : **2020 - Present**
+  : **2020 - 2026**
 
-- Improve observability: reduce alert noise, review/extend metrics, build monitors/SLOs
+- Improve observability: reduce alert noise, review/extend metrics, build monitors/SLOs with Terraform
 - Migrate and modernize applications and infrastructure: on-prem to AWS, MongoDB Atlas
 - Support software teams with tricky issues and help improve operations: reliability reviews, response processes
 - Analyze incidents, improve the analysis process, focus on blamelessness in retrospectives
@@ -92,7 +93,7 @@ The University of Texas at Austin
 
 ## Skills
 
-**Programming Languages:** Python, Terraform
+**Programming Languages:** Python, Java, Terraform
 
 **Tools and Frameworks:** Git
 
