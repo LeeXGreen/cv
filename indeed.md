@@ -300,4 +300,12 @@ Urged appropriate levels of caution during deprecations and migrations
 
 July 2025: 1,300 people laid off
 
+Stack ranking introduced
+
 ### September 2025 - March 2026
+
+### March 2026 - September 2026
+
+### November 2026
+
+Separated
